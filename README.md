@@ -7,6 +7,10 @@ Soy biólogo y actualmente trabajo en ciencia de datos aplicada a biodiversidad.
 - <code><img height="22" src="https://avatars.githubusercontent.com/u/19267758" alt="the carpentries logo"></code>[The Carpentries](https://github.com/carpentries)
 - <code><img height="22" src="https://avatars.githubusercontent.com/u/1200269" alt="rOpenSci logo"></code>[rOpenSci](https://ropensci.org)
 
+## 
+
+[![On GitHub/En GitHub](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Habilidades e intereses / Skills and interests
 <p align="left">
   <a href="https://skillicons.dev">
